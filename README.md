@@ -4,7 +4,7 @@ This project provides a FastAPI-based backend to fetch and analyze e-commerce br
 
 ## Features
 
-- Fetch product catalog (excluding HTML fields)
+- Fetch product catalog 
 - Extract hero products from homepage
 - Get privacy and return/refund policies
 - Extract FAQs in Q&A format
